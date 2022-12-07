@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayetan Emmanuel
 - 👀 I’m interested in Mobile Application Development using React Native and Web developement using HTML CSS and JavaScript
 - 🌱 I’m currently learning Full stack development
-- 💞️ I’m looking to collaborate with programmers that are more experienced.
+- 💞️ I’m looking to collaborate with programmers that are more experienced than I
 - 📫 You can Contact me @ 3mmyd3v@gmail.com
 
 <!---
